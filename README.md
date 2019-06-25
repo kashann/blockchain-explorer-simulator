@@ -1,9 +1,9 @@
 # blockchain-explorer-simulator
 
 ## In order to run, make sure to:
-> put firebase .json file in ..api/
-> run 'node index.js' in ../api
-> run 'npm run dev' in root
+###### put firebase .json file in ..api/
+###### run 'node index.js' in ../api
+###### run 'npm run dev' in root
 > A Vue.js project
 
 ## Build Setup
